@@ -1,19 +1,19 @@
 [
     {
-        id: 1,
-        name: "Cheese Full",
-        size: "Large",
-        desc:"very very deliciuos pizza with extra spices",
-        price: 250,
-        imageUrl:"http://nearbyshop.in/images/detailed/17/Corn_Pizza.png"
+        "id": 1,
+        "name": "Cheese Full",
+        "size": "Large",
+        "desc":"very very deliciuos pizza with extra spices",
+        "price": 250,
+        "imageUrl":"http://nearbyshop.in/images/detailed/17/Corn_Pizza.png"
     },
     {
-        id: 2,
-        name: "Corn and Tomato",
-        size: "Large",
-        desc:"pizza with sweet corn ",
-        price: 200,
-        imageUrl:"http://mcr.org.in/bol/image/cache/food/COMBO2-500x500.png"
+        "id": 2,
+        "name": "Corn and Tomato",
+        "size": "Large",
+        "desc":"pizza with sweet corn ",
+        "price": 200,
+        "imageUrl":"http://mcr.org.in/bol/image/cache/food/COMBO2-500x500.png"
     }
     
 ]
