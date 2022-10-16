@@ -14,6 +14,14 @@
         "desc":"pizza with sweet corn ",
         "price": 200,
         "imageUrl":"http://mcr.org.in/bol/image/cache/food/COMBO2-500x500.png"
+    },
+    {
+        "id": 3,
+        "name": "New Cheese",
+        "size": "Large",
+        "desc":"pizza with Extra Cheese ",
+        "price": 400,
+        "imageUrl":"http://mcr.org.in/bol/image/cache/food/COMBO2-500x500.png"
     }
     
 ]
